@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\intermediate\\build\\win64\\unrealeditor\\development\\rendertoolsue5\\module.rendertoolsue5.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\intermediate\\build\\win64\\unrealeditor\\development\\rendertoolsue5\\definitions.rendertoolsue5.h",
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\source\\rendertoolsue5\\private\\actordatatable.cpp",
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\source\\rendertoolsue5\\public\\actordatatable.h",
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\intermediate\\build\\win64\\unrealeditor\\inc\\rendertoolsue5\\actordatatable.generated.h",
+            "c:\\unrealengine\\engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\unrealengine\\engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\source\\rendertoolsue5\\private\\rendertoolsue5.cpp",
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\source\\rendertoolsue5\\public\\rendertoolsue5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

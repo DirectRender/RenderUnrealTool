@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\intermediate\\build\\win64\\unrealeditor\\development\\rendertoolsue5\\module.rendertoolsue5.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\intermediate\\build\\win64\\unrealeditor\\development\\rendertoolsue5\\definitions.rendertoolsue5.h",
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\intermediate\\build\\win64\\unrealeditor\\inc\\rendertoolsue5\\actordatatable.gen.cpp",
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\source\\rendertoolsue5\\public\\actordatatable.h",
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\intermediate\\build\\win64\\unrealeditor\\inc\\rendertoolsue5\\actordatatable.generated.h",
+            "c:\\users\\lucas\\onedrive\\dokument\\test\\rendertoolsue5\\rendertoolsue5\\hostproject\\plugins\\rendertoolsue5\\intermediate\\build\\win64\\unrealeditor\\inc\\rendertoolsue5\\rendertoolsue5.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

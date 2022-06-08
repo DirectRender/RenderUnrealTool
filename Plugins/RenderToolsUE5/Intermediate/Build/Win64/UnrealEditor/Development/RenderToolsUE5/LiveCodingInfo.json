@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RenderToolsUE5.cpp.obj": [
+			"ActorDatatable.cpp.obj",
+			"RenderToolsUE5.cpp.obj"
+		],
+		"Module.RenderToolsUE5.gen.cpp.obj": [
+			"ActorDatatable.gen.cpp.obj",
+			"RenderToolsUE5.init.gen.cpp.obj"
+		]
+	}
+}

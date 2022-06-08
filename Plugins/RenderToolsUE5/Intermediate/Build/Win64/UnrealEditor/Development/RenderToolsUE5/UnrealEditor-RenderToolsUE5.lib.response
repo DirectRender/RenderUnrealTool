@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RenderToolsUE5.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\lucas\OneDrive\Dokument\Test\RenderToolsUE5\RenderToolsUE5\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\lucas\OneDrive\Dokument\Test\RenderToolsUE5\RenderToolsUE5\HostProject\Plugins\RenderToolsUE5\Intermediate\Build\Win64\UnrealEditor\Development\RenderToolsUE5\Module.RenderToolsUE5.cpp.obj"
+"C:\Users\lucas\OneDrive\Dokument\Test\RenderToolsUE5\RenderToolsUE5\HostProject\Plugins\RenderToolsUE5\Intermediate\Build\Win64\UnrealEditor\Development\RenderToolsUE5\Module.RenderToolsUE5.gen.cpp.obj"
+"C:\Users\lucas\OneDrive\Dokument\Test\RenderToolsUE5\RenderToolsUE5\HostProject\Plugins\RenderToolsUE5\Intermediate\Build\Win64\UnrealEditor\Development\RenderToolsUE5\Default.rc2.res"
+/OUT:"C:\Users\lucas\OneDrive\Dokument\Test\RenderToolsUE5\RenderToolsUE5\HostProject\Plugins\RenderToolsUE5\Intermediate\Build\Win64\UnrealEditor\Development\RenderToolsUE5\UnrealEditor-RenderToolsUE5.lib"

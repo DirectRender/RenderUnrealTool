@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "69.1",
+	"FriendlyName": "RenderToolsUE5",
+	"Description": "THE NO MORE PAIN TOOL",
+	"Category": "Other",
+	"CreatedBy": "Render",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RenderToolsUE5",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
